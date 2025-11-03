@@ -1,7 +1,7 @@
 # Archivos de entorno
-.env
+.env # To Update the .env: you can remove this (.env) line and commit it. After that remove the .env file and create a .env.example file as discussed. Once you've done everything from before add again the .env file in the git ignore
 
-# Volúmenes de Docker
+# VolÃºmenes de Docker
 wp-data/
 db_data/
 
