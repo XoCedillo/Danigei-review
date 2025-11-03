@@ -1,0 +1,10 @@
+# Archivos de entorno
+.env
+
+# Volúmenes de Docker
+wp-data/
+db_data/
+
+# Archivos temporales
+*.log
+*.tmp
