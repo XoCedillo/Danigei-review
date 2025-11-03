@@ -1,4 +1,8 @@
-version: "3.8"
+# The file throws an error when running docker-compose up seems we cannot connect to the db, please consider add dependencies to the docker file:
+# See doc:
+# - https://docs.docker.com/compose/how-tos/startup-order/
+# - 
+version: "3.8" # version is deprecated please remove this
 
 services:
   db:
